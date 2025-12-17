@@ -4,7 +4,7 @@ Follow these steps to run the notebooks in this folder with the expected depende
 
 ## 1) Create and activate the environment (Python 3.11)
 ```bash
-conda create -n vqe-env python=3.9 -y
+conda create -n vqe-env python=3.11 -y
 conda activate vqe-env
 ```
 
