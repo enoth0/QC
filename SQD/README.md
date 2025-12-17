@@ -2,9 +2,9 @@
 
 Follow these steps to create the environment and install all required dependencies.
 
-## 1) Create and activate the environment (Python 3.9)
+## 1) Create and activate the environment (Python 3.11)
 ```bash
-conda create -n sqd-env python=3.9 -y
+conda create -n sqd-env python=3.11 -y
 conda activate sqd-env
 ```
 
